@@ -235,6 +235,40 @@
     "downloadStateCompleted": "Completado",
     "downloadStateFailed": "Fallido",
     /* Update Notifications */
-    "updateNotificationTitle": "Una nueva versión de Min se encuentra disponible."
+    "updateNotificationTitle": "Una nueva versión de Min se encuentra disponible.",
+    /* Autofill settings */
+    "settingsPasswordAutoFillHeadline": null, //missing translation
+    "settingsSelectPasswordManager": "Elije uno de los gestores de contraseñas soportados:",
+    "keychainViewPasswords": "Ver contraseñas guardadas",
+    /* Password manager setup */
+    "passwordManagerSetupHeading": null, //missing translation
+    "passwordManagerSetupStep1": null, //missing translation
+    "passwordManagerInstallerSetup": null, //missing translation
+    "passwordManagerSetupLink": null, //missing translation
+    "passwordManagerSetupLinkInstaller": null, //missing translation
+    "passwordManagerSetupStep2": null, //missing translation
+    "passwordManagerSetupDragBox": null, //missing translation
+    "passwordManagerSetupInstalling": null, //missing translation
+    "passwordManagerSetupSignIn": null, //missing translation
+    "disableAutofill": null, //missing translation
+    "passwordManagerSetupUnlockError": null, //missing translation
+    "passwordManagerSetupRetry": null, //missing translation
+    "passwordManagerUnlock": null, //missing translation
+    /* Password save bar */
+    "passwordCaptureSavePassword": "¿Guardar contraseña para %s?",
+    "passwordCaptureSave": "Guardar",
+    "passwordCaptureDontSave": "No guardar",
+    /* Password viewer */
+    "savedPasswordsHeading": "Contraseñas guardadas",
+    "savedPasswordsEmpty": "No hay contraseñas guardadas.",
+    "deletePassword": "¿Borrar contraseña para %s?",
+    /* Dialogs */
+    "loginPromptTitle": null, //missing translation
+    "dialogConfirmButton": "Confirmar",
+    "dialogSkipButton": "Cancelar",
+    "username": "Nombre de usuario",
+    "email": "Direccion de correo",
+    "password": "Contraseña",
+    "secretKey": null, //missing translation
   }
 }
