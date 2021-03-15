@@ -137,19 +137,19 @@
     "settingsBlockedRequestCount": {
       "unsafeHTML": "Hasta ahora, Min ha bloqueado <strong></strong> anuncios y rastreadores."
     },
-    "settingsCustomBangs": null, // missing translation
-    "settingsCustomBangsAdd": null, // missing translation
-    "settingsCustomBangsPhrase": null, // missing translation
-    "settingsCustomBangsSnippet": null, // missing translation
-    "settingsCustomBangsRedirect": null, // missing translation
-    "settingsCustomizeFiltersLink": null, //missing translation
+    "settingsCustomBangs": "Bangs personalizados",
+    "settingsCustomBangsAdd": "Agregar bang personalizado",
+    "settingsCustomBangsPhrase": "Frase (Requerido)",
+    "settingsCustomBangsSnippet": "Descripción (Opcional)",
+    "settingsCustomBangsRedirect": "URL de redirección (Requerido)",
+    "settingsCustomizeFiltersLink": "Personalizar filtros",
     "settingsAppearanceHeading": "Apariencia",
     "settingsEnableDarkMode": "Habilitar modo oscuro:",
     "settingsDarkModeNever": "Nunca", // googled
     "settingsDarkModeNight": "Por la noche", // googled
     "settingsDarkModeAlways": "Siempre", // googled
-    "settingsSiteThemeToggle": null, //missing translation
-    "settingsAdditionalFeaturesHeading": null, //missing translation
+    "settingsSiteThemeToggle": "Habilitar tema del sitio",
+    "settingsAdditionalFeaturesHeading": "Características adicionales",
     "settingsUserscriptsToggle": null, //missing translation
     "settingsShowDividerToggle": "Mostrar divisor de pestañas",
     "settingsSeparateTitlebarToggle": null, //missing translation
